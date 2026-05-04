@@ -23,7 +23,6 @@
 ## 👤 Author
 **M. Faizan Faruk Bhagat**  
 MSc RCSE @ TU Ilmenau, Germany  
-📧 faizanbhagat.de@gmail.com | 🎓 Matrikel: 72590
 
 ---
 
@@ -70,10 +69,10 @@ This paper breaks down how AI is the backbone of modern XR — from Snapchat fil
 ---
 
 ## 📁 Repo Contents
-| File | What's inside |
-|------|--------------|
-| `main_AI_x_AR.tex` | Full LaTeX source code |
-| `paper.pdf` | Final submitted paper |
+| What's inside |
+|--------------|
+| Full LaTeX source code |
+| Final submitted paper |
 
 ---
 
