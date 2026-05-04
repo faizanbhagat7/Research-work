@@ -1,10 +1,22 @@
-# 🤖 AI in AR/VR — Perception, Personalization & Generative Experiences
+<p align="center">
+  <img src="https://www.tu-ilmenau.de/fileadmin/Unisystem/corporate-design/logo/tui_logo_rgb.png" height="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./ccse2025-logo.png" height="70"/>
+</p>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![Conference](https://img.shields.io/badge/CCSE%202025-TU%20Ilmenau-blue)
-![Status](https://img.shields.io/badge/Status-Presented%20✓-brightgreen)
+<h1 align="center">🤖 AI in AR/VR — Perception, Personalization & Generative Experiences</h1>
 
-> *"AI isn't just powering apps anymore — it's rewriting reality itself."* 🌐
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"/>
+  </a>
+  <img src="https://img.shields.io/badge/CCSE%202025-TU%20Ilmenau-blue"/>
+  <img src="https://img.shields.io/badge/Status-Presented%20✓-brightgreen"/>
+</p>
+
+<p align="center">
+  <i>"AI isn't just powering apps anymore — it's rewriting reality itself."</i> 🌐
+</p>
 
 ---
 
