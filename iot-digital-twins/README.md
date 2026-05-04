@@ -16,11 +16,7 @@
   <a href="https://creativecommons.org/licenses/by/4.0/">
     <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"/>
   </a>
-  <a href="https://www.tu-ilmenau.de/en/">
-    <img src="https://img.shields.io/badge/CCSE%202025-TU%20Ilmenau-blue"/>
-  </a>
   <img src="https://img.shields.io/badge/Role-Group%20Lead%20⭐-orange"/>
-  <img src="https://img.shields.io/badge/Status-Submitted%20✓-brightgreen"/>
 </p>
 
 <p align="center">
