@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tu-ilmenau.de/fileadmin/Unisystem/corporate-design/logo/tui_logo_rgb.png" height="70"/>
+  <img src="https://www.tu-ilmenau.de/typo3conf/ext/tui_base/Resources/Public/Images/logo-tui-white.svg" height="70"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./ccse2025-logo.png" height="70"/>
 </p>
