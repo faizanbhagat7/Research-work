@@ -72,14 +72,6 @@ Breaks down how AI is the backbone of modern XR — from Snapchat filters to Ope
 
 ---
 
-## 📁 Files
-| File | Description |
-|------|-------------|
-| [main_AI_x_AR.tex](./main.AI x AR.tex) | LaTeX source code |
-| [Paper PDF](./AI%20in%20AR%20:%20VR%20Enhancing%20Perception,%20Personalization,%20and%20Generative%20Experiences%20-%20M%20Faizan%20Faruk%20Bhagat%20-%2072590.pdf) | Final submitted paper |
-
----
-
 ## 🏆 Publication
 > Presented at **[17th CCSE 2025](https://www.tu-ilmenau.de/en/)** — TU Ilmenau, Germany 🇩🇪  
 > August 28, 2025 | Track: Virtual & Augmented Reality
