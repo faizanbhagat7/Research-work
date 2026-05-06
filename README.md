@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">📚 Research Work</h1>
-<h3 align="center">M. Faizan Faruk Bhagat — MSc RCSE @ TU Ilmenau</h3>
+<h3 align="center">M. Faizan Faruk Bhagat — MSc Research in Computer & Systems Engineering - TU Ilmenau</h3>
 
 <p align="center">
   <a href="https://www.tu-ilmenau.de/en/">
